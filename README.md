@@ -103,6 +103,10 @@ Stay tuned for upcoming repositories! 🚀
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=220&section=header&text=RAWEEN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20🚀&descAlignY=60"/>
+</p>
+</p>
 
 ## 📫 Connect With Me
 
@@ -110,17 +114,11 @@ Stay tuned for upcoming repositories! 🚀
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAWEEN164&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=220&section=header&text=RAWEEN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20🚀&descAlignY=60"/>
-</p>
-</p>
-
-<p align="center">
   
 ✨ Thanks for visiting my profile! ✨
 
 ⭐ Don't forget to follow me!
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAWEEN164&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
