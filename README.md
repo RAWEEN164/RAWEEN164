@@ -97,7 +97,6 @@ Here are some ideas to get you started:
 I'm currently learning programming and building my first open-source projects.
 Stay tuned for upcoming repositories! 🚀
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
 </p>
@@ -111,7 +110,6 @@ Stay tuned for upcoming repositories! 🚀
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=220&section=header&text=RAWEEN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20🚀&descAlignY=60"/>
 </p>
 </p>
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/RAWEEN164  
