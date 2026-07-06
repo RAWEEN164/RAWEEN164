@@ -83,19 +83,13 @@ Here are some ideas to get you started:
 
 ---
 
-## 📂 Featured Projects
+## 📂 Current Projects
 
-🔹 Calculator App
+🚧 Projects coming soon...
 
-🔹 Portfolio Website
+I'm currently learning programming and building my first open-source projects.
+Stay tuned for upcoming repositories! 🚀
 
-🔹 Weather App
-
-🔹 To-Do List
-
-🔹 Student Management System
-
-🔹 Python Mini Projects
 
 ---
 
