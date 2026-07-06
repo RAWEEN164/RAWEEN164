@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **RAWEEN164/RAWEEN164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,104 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Raween</h1>
+<h3 align="center">💻 Student | Future Full-Stack Developer | Tech Enthusiast 🇱🇰</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Student+Developer;Learning+Something+New+Every+Day;Future+Software+Engineer" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Student from Sri Lanka
+- 🌱 Currently learning Programming & Web Development
+- 💻 Passionate about Coding and Open Source
+- 🎯 Goal: Become a Professional Software Developer
+- ⚡ I enjoy building useful and creative projects
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,cpp,git,github,vscode,linux"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RAWEEN164&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RAWEEN164&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAWEEN164&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RAWEEN164&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 🔥 Current Goals
+
+- 📚 Learn Python
+- 🌍 Learn JavaScript
+- ⚙️ Build Real Projects
+- 🚀 Contribute to Open Source
+- 💼 Become a Full-Stack Developer
+
+---
+
+## 📂 Featured Projects
+
+🔹 Calculator App
+
+🔹 Portfolio Website
+
+🔹 Weather App
+
+🔹 To-Do List
+
+🔹 Student Management System
+
+🔹 Python Mini Projects
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/RAWEEN164
+
+---
+
+<p align="center">
+
+✨ Thanks for visiting my profile! ✨
+
+⭐ Don't forget to follow me!
+
+</p>
+
