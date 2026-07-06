@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 - 🎯 Goal: Become a Professional Software Developer
 - ⚡ I enjoy building useful and creative projects
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode&perline=7"/>
+</p>
+
 ---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Raween+👋;Student+Developer+💻;Learning+Every+Day+🚀;Welcome+to+My+GitHub!" />
@@ -115,5 +119,8 @@ Stay tuned for upcoming repositories! 🚀
 
 ⭐ Don't forget to follow me!
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=220&section=header&text=RAWEEN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20🚀&descAlignY=60"/>
+</p>
 </p>
 
