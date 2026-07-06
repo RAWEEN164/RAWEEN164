@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 - ⚡ I enjoy building useful and creative projects
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Raween+👋;Student+Developer+💻;Learning+Every+Day+🚀;Welcome+to+My+GitHub!" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -90,13 +93,20 @@ Here are some ideas to get you started:
 I'm currently learning programming and building my first open-source projects.
 Stay tuned for upcoming repositories! 🚀
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/RAWEEN164
+- GitHub: https://github.com/RAWEEN164  
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAWEEN164&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 ---
 
 <p align="center">
