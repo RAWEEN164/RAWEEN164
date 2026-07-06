@@ -108,19 +108,9 @@ Stay tuned for upcoming repositories! 🚀
 
 
 
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=220&section=header&text=RAWEEN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20🚀&descAlignY=60"/>
-</p>
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8d27-1a7b8d5d4f2c.gif" width="650">
 </p>
-
 
 ## 📫 Connect With Me
 
