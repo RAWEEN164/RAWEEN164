@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
----
+
 
 ## 🚀 About Me
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 🎯 Goal: Become a Professional Software Developer
 - ⚡ I enjoy building useful and creative projects
 
----
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Raween+👋;Student+Developer+💻;Learning+Every+Day+🚀;Welcome+to+My+GitHub!" />
 </p>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 </p>
 
----
+
 
 ## 📈 Most Used Languages
 
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 </p>
 
----
+
 
 ## 🏆 GitHub Trophies
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 </p>
 
----
+
 
 ## 🔥 Current Goals
 
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 - 🚀 Contribute to Open Source
 - 💼 Become a Full-Stack Developer
 
----
+
 
 ## 📂 Current Projects
 
@@ -100,7 +100,6 @@ Stay tuned for upcoming repositories! 🚀
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
 </p>
 
----
 
 ## 📫 Connect With Me
 
@@ -110,7 +109,6 @@ Stay tuned for upcoming repositories! 🚀
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAWEEN164&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=220&section=header&text=RAWEEN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20🚀&descAlignY=60"/>
@@ -118,7 +116,6 @@ Stay tuned for upcoming repositories! 🚀
 </p>
 
 <p align="center">
-
 ✨ Thanks for visiting my profile! ✨
 
 ⭐ Don't forget to follow me!
